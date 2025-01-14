@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "abematv.akamaized.net",
+        "apiproxy-device-prod-nlb-",
+        "avoddashs",
+        "bbcfmt",
+        "discovery.uplynk.com",
+        "dualstack.apiproxy-",
+        "dualstack.ichnaea-web-",
+        "hamivideo.cdn.hinet.net",
+        "hbogoasia",
+        "japonx",
+        "japronx",
+        "jooxweb-api",
+        "netflixdnstest",
+        "nivod",
+        "nowtv100",
+        "olevod",
+        "rthklive",
+        "spotify",
+        "tiktokcdn",
+        "ttvnw",
+        "tvbanywhere",
+        "uk-live",
+        "voddazn",
+        "youtube"
+      ]
+    }
+  ]
+}
